@@ -1,0 +1,1 @@
+Durant l'extrusion, des petites lignes peuvent apparaître le long de la paraison. Elles altèrent la qualité du produit fini et peuvent, dans les cas extrêmes ou dans le cas de corps creux à paroi mince, conduire à sa rupture pendant les tests. 

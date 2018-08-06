@@ -1,0 +1,3 @@
+Durant l'extrusion des corps creux, il se peut que l'aspect de surface soit trop brillant alors que l'on recherche une finition mate. Le problème apparaît comme des stries ou des bandes brillantes le long du produit. 
+
+

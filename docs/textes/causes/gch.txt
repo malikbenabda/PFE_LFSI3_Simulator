@@ -1,0 +1,7 @@
+La cause première est une mauvaise répartition de la matière au niveau de l'épaisseur de la paroi. Le débit de l'eau de refroidissement et le mauvais alignement du moule par rapport à la filière peuvent accentuer ce problème. 
+
+D'autres paramètres sont à prendre en considération : 
+?	Le centrage de la filière 
+?	Un refroidissement inégal. 
+?	La pression de soufflage.
+?	La température de l’eau.

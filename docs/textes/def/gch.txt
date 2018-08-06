@@ -1,0 +1,1 @@
+Durant la fabrication de corps creux, certains réglages et facteurs externes peuvent produire un produit qui n'est pas conforme. Ce gauchissement est repérée par les axes Nord-Sud / Est-Ouest. Ce problème est visible lorsque le produit a été coupé. Si la valeur du cintrage est au-delà des tolérances, le produit n'est pas conforme au cahier des charges. 

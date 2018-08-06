@@ -1,0 +1,2 @@
+Des tests de résistance aux chocs ou à l'éclatement font partie du cahier des charges de certains corps creux. Pendant l'extrusion, le choix des conditions de transformation a une incidence significative sur le résultat de ces tests. 
+

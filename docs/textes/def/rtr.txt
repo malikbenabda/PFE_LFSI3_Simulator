@@ -1,0 +1,2 @@
+Le retrait est un problème qui est particulier aux corps soufflés. Pour le quantifier, un échantillon est chauffé à une température définie et pendant un temps donné -les conditions de test peuvent varier selon la matière. Les côtes de l'échantillon sont mesurées précisément avant et après le test. Le retrait est déterminé à partir de ces mesures. Un client spécifie souvent le retrait maximum qu'il admet sur ce type de produit. 
+Si le produit rétrécit trop pendant le test de retrait, il est refusé. 

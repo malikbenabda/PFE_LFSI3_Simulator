@@ -1,0 +1,9 @@
+Si les chaînes macromoléculaires constituant le polymère subissent un étirement trop important et sont refroidies dans cet état, il en résulte des tensions internes. En réchauffant la matière, les chaînes macromoléculaires vont tendre à reprendre leur forme initiale, ce qui entraîne un retrait de la matière. 
+
+Les macromolécules peuvent être étirées lors du processus soufflage qui gonfle l'extrudât dans le moule. Si les chaînes macromoléculaires sont refroidies dans cet état, alors la probabilité d'obtenir un retrait trop important (hors tolérances) est augmentée. 
+
+Les conditions suivantes peuvent entraîner l'obtention d'un retrait important : 
+•Un mauvais rapport entre diamètre du produit et le diamètre de •paraison en sortie de la filière 
+•Une température matière trop élevée 
+•Un temps de refroidissement trop faible
+•Température moule insuffisante

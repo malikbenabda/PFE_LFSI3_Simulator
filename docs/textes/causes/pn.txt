@@ -1,0 +1,11 @@
+La dégradation est le résultat d'un endommagement de la matière. Les longues chaînes macromoléculaires qui constituent le polymère cassent quand elles sont soumises à une température ou une contrainte de cisaillement excessives. Des gaz volatiles se développent en même temps que la rupture moléculaire, qui peuvent accélérer le processus de dégradation et conduire à un changement de couleur de la matière. Une destruction massive des chaînes moléculaires peut éventuellement détruire la constitution de la matière et affecter ainsi ses propriétés mécaniques. 
+Le PVC est particulièrement sujet à la dégradation en raison de son instabilité thermique, alors que le polyéthylène est beaucoup plus stable. 
+
+Les dégradations peuvent se produire si : 
+	•Une température excessive est appliquée à la matière quand elle est dans le fourreau ou dans la tête d'extrusion 
+	•Le temps de séjour de la matière dans le fourreau est trop long 
+	•Des contraintes de cisaillement excessives sont appliquées à la matière pendant la phase de plastification 
+
+Des points noirs peuvent apparaître si : 
+	•La vis ou le fourreau sont endommagés ou présentent des dépôts excessifs de matière 
+	•Les procédures de mise en route et d'arrêt de l'extrudeuse sont incorrectes 

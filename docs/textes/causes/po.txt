@@ -1,0 +1,5 @@
+La peau d'orange se caractérise généralement par un glissement irrégulier du polymère sur la paroi interne de la filière (adhérence). 
+Cet effet peut être causé par : 
+	• Un débit excessif de matière dans la filière 
+	• Une viscosité élevée ou variable de la matière 
+	• Une température de surface de la filière pas assez élevée .une mauvaise conception de la filière.

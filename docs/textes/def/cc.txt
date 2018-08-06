@@ -1,0 +1,1 @@
+Pendant l'extrusion de polymères thermosensibles, un changement de couleur sur la totalité de la pièce peut apparaître. Il n'est pas forcément visible au moment de l'extrusion, mais devient apparent lors des tests ou lorsque la pièce est assemblée à d'autres composants. 

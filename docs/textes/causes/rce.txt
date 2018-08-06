@@ -1,0 +1,7 @@
+L'échec aux tests de résistance peut provenir : 
+	•D'une température matiére non appropriée pendant la transformation. 
+	•D'un cisaillement de la matière trop élevé lui causant des dommages. 
+	•Une vitesse de refroidissement trop élevée générant des contraintes internes au niveau macromoléculaire.
+	•Une mauvaise qualité matière ou une matière polluée.
+	•Un temps d’échappement insuffisant.
+

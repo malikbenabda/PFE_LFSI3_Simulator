@@ -1,0 +1,5 @@
+
+?	Température matière et/ou filière trop basse .
+?	Vitesse de vis excessive .
+?	Pourcentage de recyclé (broyé) trop important (cas du PVC) 
+?	Mauvais état de surface du moule.

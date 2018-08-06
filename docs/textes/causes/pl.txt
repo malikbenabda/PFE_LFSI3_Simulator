@@ -1,0 +1,6 @@
+La cause de ce défaut est du à une quantité de matière trop importante dans certaines zones du produit. Cet excès de matière ne peut pas être refroidit correctement, entraînant un plissement du corps soufflé. 
+
+Les paramètres suivants peuvent être la cause de l'apparition de ce défaut : 
+	•Un débit incorrect de l’extrudeuse.
+	•Une mauvaise répartition des épaisseurs dans la paroi.
+	•Le moule mal aligné par rapport à la filière 

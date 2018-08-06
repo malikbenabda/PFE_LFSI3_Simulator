@@ -1,0 +1,9 @@
+
+L'état de surface du corps creux peut être affecté par la qualité de la matière, les températures de transformation, la position des éléments de refroidissement et de dimensionnement. 
+
+Les facteurs à considérer sont les suivants : 
+?	la qualité de la matière 
+?	La température matière dans le fourreau.
+?	Les températures de la filière. 
+?	Le débit de l'eau de refroidissement. 
+

@@ -1,0 +1,7 @@
+Les fossettes sont provoquées par un retrait localisé (retassures) de la matière à la surface du produit. Le problème est accentué lorsque la surface du moule arrive au contact de l'eau (surtout si elle est trop froide). 
+
+Les paramètres intervenant dans l'apparition de ce phénomène sont : 
+	•La vitesse d'extrusion . 
+	•La température de l'eau de refroidissement. 
+	•La position du moule par rapport à la filière .
+	•La pression de l’air de soufflage. 

@@ -1,0 +1,9 @@
+Un corps creux peut s'ovaliser s'il n'a pas été correctement mis en forme et dimensionné, ou s'il a subi des déformations durant sa fabrication. 
+
+D'autres facteurs sont à prendre en compte : 
+	•Une épaisseur de paroi trop mince .
+	•Un refroidissement insuffisant 
+	•Une pression de soufflage excessive.
+	•Une cane de soufflage non convenable.
+
+

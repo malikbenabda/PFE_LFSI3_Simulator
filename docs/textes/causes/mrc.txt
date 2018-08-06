@@ -1,0 +1,10 @@
+La cause principale d'une mauvaise répartition de la couleur provient d'un mélange insuffisant du mélange maître et du polymère pendant la phase de plastification. 
+
+Cet effet peut être causé par : 
+•	Une incompatibilité entre le support du colorant et le polymère ou entre le pigment et le polymère. 
+•	Un frictionnement et un cisaillement de la matière pendant la plastification insuffisants. 
+•	Une mauvaise géométrie de la vis 
+•	Un manque de pression sur le polymère fondu 
+•	Un mauvais travail de la matière pendant la phase de plastification 
+
+Dans les cas les moins graves, un mélange non uniforme (de mélanges maîtres) dans la trémie aura pour conséquence l'obtention d'un produit avec un problème minime de mauvaise répartition de la couleur. 
